@@ -9,7 +9,14 @@ dock is a free and open-source version control system for all documentation. Use
 
 Upcoming features include 
 Automated topic differentiation
-Visualisation 
+Visualisation
+Syntax
+Automated documentation generation
+Audit feature  
 
 Usage 
 
+Download the latest package via this link
+
+Once installed run dock -v in your terminal to do a quick version check
+Please refer to Documentation for the full syntax
