@@ -3,27 +3,17 @@
  
 ## Welcome to documentationKernel(dock)
 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "dock official logo"
-
 <h1 align="center">
-  <a href="https://joinpeertube.org">
-    <img src="https://joinpeertube.org/img/brand.png" alt="PeerTube">
+  <a href="https://dock.org">
+    <img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="dock Logo">
   </a>
 </h1>
 
 <p align=center>
-  <strong><a href="https://joinpeertube.org">Website</a></strong>
-  | <strong><a href="https://instances.joinpeertube.org">Join an instance</a></strong>
-  | <strong><a href="#package-create-your-own-instance">Create an instance</a></strong>
+  <strong><a href="https://dock.org">Website</a></strong>
+  | <strong><a href="https://contribute.dock.org">Contribute</a></strong>
   | <strong><a href="#contact">Chat with us</a></strong>
-  | <strong><a href="https://framasoft.org/en/#soutenir">Donate</a></strong>
 </p>
-
-
- 
- **Website** | **Contribute** | **Chat with us**
  
 dock is a free and open-source version control system for all documentation. Use this system to automatically filter and differentiate all major changes available within each version update, easily manage existing technical documentation. 
 
