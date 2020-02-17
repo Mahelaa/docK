@@ -1,8 +1,3 @@
-# dock
-## Document Kernel : an open source version control system for technical documentation
- 
-## Welcome to documentationKernel(dock)
-
 <h1 align="center">
   <a href="https://dock.org">
     <img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png" alt="dock Logo">
@@ -12,9 +7,11 @@
 <p align=center>
   <strong><a href="https://dock.org">Website</a></strong>
   | <strong><a href="https://contribute.dock.org">Contribute</a></strong>
-  | <strong><a href="#contact">Chat with us</a></strong>
+  | <strong><a href="https://chat.dock.org">Chat with us</a></strong>
 </p>
- 
+
+## Welcome to documentKernel(dock)
+
 dock is a free and open-source version control system for all documentation. Use this system to automatically filter and differentiate all major changes available within each version update, easily manage existing technical documentation. 
 
 ### Upcoming features include 
