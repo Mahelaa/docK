@@ -1,0 +1,38 @@
+#!/usr/bin/env bash
+
+
+#sudo ln -s /Users/terminus/Github/Open_Source/dock/dock /usr/local/bin/dock -> add to bin executable 
+#chmod +x /full/path/to/your/file --> Make executable
+
+init(){
+    #mkdir in current path .dock
+    echo "Dock intialized"
+    Generate SHA1 Hash and store
+
+    #mkdir refs with head master remote and 
+    #create cfg file
+}
+
+up(){
+    #read files and stash in current head
+}
+
+anchor(){
+    #read current file and isten for tags @docK_title @dock_body and generate files either md , docx or txt
+}
+
+filter(){
+    #run through and check differences if title and body present tag as change 
+}
+
+dock-ignore(){
+    #remove dock from current dir
+}
+
+version(){
+    #check for current workign order, return sha1 and user labellled version
+}
+
+update(){
+    #check dock version and update
+}
